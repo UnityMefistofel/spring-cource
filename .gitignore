@@ -1,0 +1,3 @@
+# Project exclude paths
+/target/
+/src/main/java/ru/maxima/spring/player_xml/

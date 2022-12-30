@@ -6,7 +6,6 @@ import ru.maxima.spring.player.MusicGenres;
 import ru.maxima.spring.player.MusicPlayer;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class TestSpring {
 
