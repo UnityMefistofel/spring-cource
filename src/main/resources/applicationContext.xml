@@ -7,8 +7,10 @@
 
   <context:component-scan base-package="ru.maxima.spring"/>
 
-<!--  <bean id="rockMusic" class="ru.maxima.spring.player.RockMusic"></bean>-->
-<!--  <bean id="classicalMusic" class="ru.maxima.spring.player.ClassicalMusic"></bean>-->
-<!--  <bean id="bluesMusic" class="ru.maxima.spring.player.BluesMusic"></bean>-->
+<!--  <bean id="rockMusic" class="ru.maxima.spring.player.RockMusic"/>-->
+<!--  <bean id="classicalMusic" class="ru.maxima.spring.player.ClassicalMusic"/>-->
+<!--  <bean id="bluesMusic" class="ru.maxima.spring.player.BluesMusic"/>-->
+
+<!--  <bean id="musicPlayer" class="ru.maxima.spring.player.MusicPlayer"/>-->
 
 </beans>
